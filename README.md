@@ -49,6 +49,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn vowpal_wabbit
 ## Results
 
 The framework demonstrates significant improvements in recommendation quality:
+- **6.3% improvement** over random selection for new users
 - Average reward increased from 0.6781 to 0.7147 over 10,000 iterations
 - Best campaign (Campaign 4: Drama, Comedy, Thriller) achieved 0.7574 average reward
 - Worst campaign achieved 0.6103 average reward (24% difference)
